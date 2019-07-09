@@ -27,4 +27,3 @@ while(s >= 0){
   console.log(ingredients[s]);
   s--;
 };
-
